@@ -57,34 +57,34 @@ npm install
 npm run dev
 
 ## 📷 Screenshots
-1. Home Page
+### 1. Home Page
 <img src='/public/WebsiteImgs/home.png' />
 
-2. About Page
+### 2. About Page
 <img src='/public/WebsiteImgs/about.png' />
 
-3. Steps Page
+### 3. Steps Page
 <img src='/public/WebsiteImgs/steps.png' />
 
-4. Shop Page 
+### 4. Shop Page 
 <img src='/public/WebsiteImgs/shop.png' />
 
-5. Testimonials Page
+### 5. Testimonials Page
 <img src='/public/WebsiteImgs/testimonials.png' />
 
-6. Cart Page
+### 6. Cart Page
 <img src='/public/WebsiteImgs/cart.png' />
 
-7. Shop > Page
+### 7. Shop > Page
 <img src='/public/WebsiteImgs/product.png' />
 
-8. checkout/dynamic routing
+### 8. checkout/dynamic routing
 <img src='/public/WebsiteImgs/checkout.png' />
 
-9. Checkout Success Page
+### 9. Checkout Success Page
 <img src='/public/WebsiteImgs/success.png' />
 
-10. Error Page
+### 10. Error Page
 <img src='/public/WebsiteImgs/error.png' />
 
 ## 📖 Learning Outcomes
