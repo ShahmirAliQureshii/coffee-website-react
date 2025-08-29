@@ -58,10 +58,10 @@ npm run dev
 
 ## 📷 Screenshots
 1. Home Page
-/WebsiteImgs/home.png
+/public/WebsiteImgs/home.png
 
 2. About Page
-/WebsiteImgs/about.png
+/public/WebsiteImgs/about.png
 
 3. Steps Page
 /WebsiteImgs/steps.png
@@ -70,22 +70,22 @@ npm run dev
 /WebsiteImgs/shop.png
 
 5. Testimonials Page
-/WebsiteImgs/testimonials.png
+/public/WebsiteImgs/testimonials.png
 
 6. Cart Page
-/WebsiteImgs/cart.png
+/public/WebsiteImgs/cart.png
 
 7. Shop > Page
-/WebsiteImgs/product.png
+/public/WebsiteImgs/product.png
 
 8. checkout/dynamic routing
-/WebsiteImgs/checkout.png
+/public/WebsiteImgs/checkout.png
 
 9. Checkout Success Page
-/WebsiteImgs/success.png
+/public/WebsiteImgs/success.png
 
 10. Error Page
-/WebsiteImgs/error.png
+/public/WebsiteImgs/error.png
 
 ## 📖 Learning Outcomes
 
