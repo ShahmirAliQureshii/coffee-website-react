@@ -38,6 +38,7 @@
   --text-d-smaller-font-size: 13px;
 
   --font-pacifico: "Pacifico", cursive;
+  --font-cursive: cursive, "Pacifico";
 }
 
 /* Global Reset */
@@ -298,8 +299,8 @@ footer {
     font-size: 11px;
   }
   .coffee-bean-img {
-    top: 30%;
-    right: 30%;
+    top: 28%;
+    right: 25%;
   }
   .about-us-right h2 {
     font-size: 40px;
@@ -334,8 +335,8 @@ footer {
     font-size: 12px;
   }
   .coffee-bean-img {
-    top: 38%;
-    right: 25%;
+    top: 36%;
+    right: 17%;
   }
   .about {
     padding: 100px 30px;
@@ -470,7 +471,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute; 
+  position: absolute;
   height: 100%;
   width: 100%;
   gap: 30px;
@@ -487,13 +488,14 @@ footer {
   padding: 12px 0 12px 20px;
 }
 .menuCon {
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 header {
   z-index: 150;
 }
-.splash-screen, .splash-screen img   {
- transition: all .3s ease-in-out;
+.splash-screen,
+.splash-screen img {
+  transition: all 0.3s ease-in-out;
 }
 @keyframes pop-up {
   0% {
@@ -518,8 +520,23 @@ header {
   }
 }
 .splash-screen {
-  animation: entry-animation .6s;
+  animation: entry-animation 0.6s;
 }
-.main-left, .main-right, .about-us-left, .about-us-right, .box-left, .box-right, .footer-left, .footer-right, .step-0, .step-1, .step-2, .steps-heading, .slick-slide, .shop-heading, .item, .animate-productMove {
+.main-left,
+.main-right,
+.about-us-left,
+.about-us-right,
+.box-left,
+.box-right,
+.footer-left,
+.footer-right,
+.step-0,
+.step-1,
+.step-2,
+.steps-heading,
+.slick-slide,
+.shop-heading,
+.item,
+.animate-productMove {
   animation: pop-up 0.8s ease-out forwards;
 }

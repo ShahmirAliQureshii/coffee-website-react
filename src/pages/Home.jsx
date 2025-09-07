@@ -31,7 +31,7 @@ const Home = () => {
                 good coffee
               </h1>
               <img
-                className="coffee-bean-img absolute top-[52%] w-[10vw] right-[8%]"
+                className="coffee-bean-img absolute top-[38%] w-[10vw] right-[8%] max-w-[140px]"
                 src="/imgs/home-coffee-title1.svg"
                 alt="home-coffee"
               />
