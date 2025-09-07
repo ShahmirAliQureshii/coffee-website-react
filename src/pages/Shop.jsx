@@ -10,7 +10,7 @@ const Shop = () => {
         <Circle top='top-[425px]' right='-left-[90px]' />
 
         <div className="bg-transparent min-h-screen text-second-color w-full">
-          <h4 style={{fontSize: '24px'}} className="font-pacifico absolute right-[10px] text-center z-1 top-[110px]">
+          <h4 style={{fontSize: '24px'}} className="shop-heading font-pacifico absolute right-[10px] text-center z-1 top-[110px]">
             “What do you want? " <br /> "Just coffee. Black - like my soul.”
           </h4>
           <CoffeeCarousel />

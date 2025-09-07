@@ -11,6 +11,8 @@ import Cart from "./pages/Cart";
 import CheckoutPage from "./pages/CheckoutPage";
 import PurchaseCompleted from "./pages/PurchaseCompleted";
 import PrivacyAndPolicy from "./pages/PrivacyAndPolicy";
+import { useEffect, useState } from "react";
+import SplashScreen from "./pages/SplashScreen";
 
 const router = createBrowserRouter([
   {
@@ -63,6 +65,18 @@ const router = createBrowserRouter([
 ]);
 
 function App() {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false)
+    }, 2000);
+    return ()=> clearTimeout(timer);
+  }, []);
+
+  if(loading) {
+    return <SplashScreen/>
+  }
   return <RouterProvider router={router}></RouterProvider>;
 }
 

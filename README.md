@@ -85,7 +85,7 @@ npm run dev
 <img src='/public/WebsiteImgs/success.png' />
 
 10. Error Page
-<img src='/public/WebsiteImgs/error.png' />
+<img src='/public/WebsiteImgs/error .png' />
 
 ## 📖 Learning Outcomes
 
