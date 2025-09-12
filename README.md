@@ -4,7 +4,7 @@ A fully responsive Coffee Shop Website built with React.
 This project is part of my React learning journey (just 15 days in 🚀) and turned out to be one of the best projects I’ve made so far.
 
 ### 🌐 Live Demo:<br>
-🔗 https://cofetto-react.vercel.app
+🔗 https://cofetto.vercel.app
 ### 💻 Repository: 
 🔗 https://github.com/ShahmirAliQureshii/coffee-website-react/
 
